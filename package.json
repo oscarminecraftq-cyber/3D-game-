@@ -1,0 +1,13 @@
+{
+  "name": "3d-brawl-backend",
+  "version": "1.0.0",
+  "description": "Multiplayer 3D Brawl Stars Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
